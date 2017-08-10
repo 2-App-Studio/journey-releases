@@ -22,6 +22,6 @@ Journey is a [diary app](https://2appstudio.com/journey) for Android, Mac, Windo
 
 ![Diary app with Calendar](images/diary_app_windows_cal.png)
 
-![Diary app for Windows](images/diary_app_windows_night.png)
+![Journal app for Windows](images/diary_app_windows_night.png)
 
-![Diary app Windows Editor](images/diary_app_windows_editor.png)
+![Diary app for Windows](images/diary_app_windows_editor.png)
